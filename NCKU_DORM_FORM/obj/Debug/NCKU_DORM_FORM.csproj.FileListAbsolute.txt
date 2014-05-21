@@ -1,0 +1,17 @@
+e:\users\nathaniel\documents\visual studio 2013\Projects\NCKU_DORM_FORM\NCKU_DORM_FORM\bin\Debug\NCKU_DORM_FORM.exe.config
+e:\users\nathaniel\documents\visual studio 2013\Projects\NCKU_DORM_FORM\NCKU_DORM_FORM\bin\Debug\NCKU_DORM_FORM.exe
+e:\users\nathaniel\documents\visual studio 2013\Projects\NCKU_DORM_FORM\NCKU_DORM_FORM\bin\Debug\NCKU_DORM_FORM.pdb
+e:\users\nathaniel\documents\visual studio 2013\Projects\NCKU_DORM_FORM\NCKU_DORM_FORM\obj\Debug\NCKU_DORM_FORM.Form1.resources
+e:\users\nathaniel\documents\visual studio 2013\Projects\NCKU_DORM_FORM\NCKU_DORM_FORM\obj\Debug\NCKU_DORM_FORM.Properties.Resources.resources
+e:\users\nathaniel\documents\visual studio 2013\Projects\NCKU_DORM_FORM\NCKU_DORM_FORM\obj\Debug\NCKU_DORM_FORM.csproj.GenerateResource.Cache
+e:\users\nathaniel\documents\visual studio 2013\Projects\NCKU_DORM_FORM\NCKU_DORM_FORM\obj\Debug\NCKU_DORM_FORM.exe
+e:\users\nathaniel\documents\visual studio 2013\Projects\NCKU_DORM_FORM\NCKU_DORM_FORM\obj\Debug\NCKU_DORM_FORM.pdb
+E:\Users\Nathaniel\Desktop\Dropbox\NCKU_DORM_FORM\NCKU_DORM_FORM\bin\Debug\NCKU_DORM_FORM.exe.config
+E:\Users\Nathaniel\Desktop\Dropbox\NCKU_DORM_FORM\NCKU_DORM_FORM\obj\Debug\NCKU_DORM_FORM.exe
+E:\Users\Nathaniel\Desktop\Dropbox\NCKU_DORM_FORM\NCKU_DORM_FORM\obj\Debug\NCKU_DORM_FORM.pdb
+E:\Users\Nathaniel\Desktop\Dropbox\NCKU_DORM_FORM\NCKU_DORM_FORM\bin\Debug\NCKU_DORM_FORM.exe
+E:\Users\Nathaniel\Desktop\Dropbox\NCKU_DORM_FORM\NCKU_DORM_FORM\bin\Debug\NCKU_DORM_FORM.pdb
+E:\Users\Nathaniel\Desktop\Dropbox\NCKU_DORM_FORM\NCKU_DORM_FORM\obj\Debug\NCKU_DORM_FORM.csprojResolveAssemblyReference.cache
+E:\Users\Nathaniel\Desktop\Dropbox\NCKU_DORM_FORM\NCKU_DORM_FORM\obj\Debug\NCKU_DORM_FORM.Form1.resources
+E:\Users\Nathaniel\Desktop\Dropbox\NCKU_DORM_FORM\NCKU_DORM_FORM\obj\Debug\NCKU_DORM_FORM.Properties.Resources.resources
+E:\Users\Nathaniel\Desktop\Dropbox\NCKU_DORM_FORM\NCKU_DORM_FORM\obj\Debug\NCKU_DORM_FORM.csproj.GenerateResource.Cache
